@@ -68,6 +68,13 @@
 			"value": "",
 			"label": "",
 			"order": 4
+		},
+		{
+			"id": "button-1765706446887",
+			"type": "github",
+			"value": "",
+			"label": "",
+			"order": 5
 		}
 	],
 	"clockShowSeconds": true,
